@@ -4,7 +4,7 @@
 - 🌱 Estou estudando com froco em React e React Native
 - ⚡ Entrei na faculdade com 16 e não tinha ideia do que fazer, termino Direito em 2023 mas já estou estudando para migrar de área
 
-<div align="center">
+<div >
   <a href="https://github.com/Igorlauer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Igorlauer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorlauer&layout=compact&langs_count=7&theme=dracula"/>
