@@ -16,13 +16,14 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="right" alt="Igor-pic" height="150" style="border-radius:50px;" src="https://i0.wp.com/metagalaxia.com.br/wp-content/uploads/2022/09/Monkey-D-Luffy-One-Piece.webp?resize=1024%2C839&ssl=1">
 </div>
+  
 ##
 - 🔭 Hoje estou em busca da primeira oportunidade na àrea de TI
 - 🌱 Estou estudando com froco em React e React Native
 - ⚡ Entrei na faculdade com 16 e não tinha ideia do que fazer, termino Direito em 2023 mas já estou estudando para migrar de área
 ##
-
-<div> 
+<br>
+<div align ="center"> 
   <a href="https://www.instagram.com/shonen38690/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:igorlauer.jobs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/igor-lauer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
