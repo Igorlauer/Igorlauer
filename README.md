@@ -1,8 +1,5 @@
 ### Seja bem vindo 👋
 
-- 🔭 Hoje estou em busca da primeira oportunidade na àrea de TI
-- 🌱 Estou estudando com froco em React e React Native
-- ⚡ Entrei na faculdade com 16 e não tinha ideia do que fazer, termino Direito em 2023 mas já estou estudando para migrar de área
 
 <div >
   <a href="https://github.com/Igorlauer">
@@ -19,7 +16,10 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="right" alt="Igor-pic" height="150" style="border-radius:50px;" src="https://i0.wp.com/metagalaxia.com.br/wp-content/uploads/2022/09/Monkey-D-Luffy-One-Piece.webp?resize=1024%2C839&ssl=1">
 </div>
-
+##
+- 🔭 Hoje estou em busca da primeira oportunidade na àrea de TI
+- 🌱 Estou estudando com froco em React e React Native
+- ⚡ Entrei na faculdade com 16 e não tinha ideia do que fazer, termino Direito em 2023 mas já estou estudando para migrar de área
 ##
 
 <div> 
