@@ -19,7 +19,7 @@
   
 ##
 - 🔭 Hoje estou em busca da primeira oportunidade na àrea de TI
-- 🌱 Estou estudando com froco em React e React Native
+- 🌱 Estou estudando com foco em React e React Native
 - ⚡ Entrei na faculdade com 16 e não tinha ideia do que fazer, termino Direito em 2023 mas já estou estudando para migrar de área
 ##
 <br>
